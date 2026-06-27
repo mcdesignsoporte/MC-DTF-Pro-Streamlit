@@ -1,7 +1,10 @@
-streamlit
-pillow
-numpy
-opencv-python-headless
-rembg
-onnxruntime
-scikit-image
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+outputs/
+uploads/
+.DS_Store
+*.tmp
+*.log
